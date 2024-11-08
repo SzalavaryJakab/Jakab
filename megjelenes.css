@@ -98,3 +98,11 @@ a{
     text-align: justify;
     line-height: 15px;
 }
+
+h2{
+    text-decoration: underline;
+}
+
+.vastag{
+    font-weight: bold;
+}
