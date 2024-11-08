@@ -10,7 +10,7 @@ body{
 p{
     color: black;
 }
-img{
+#ananasz{
     /*kép röptetése*/
     float: left;
     /*szélesség*/
@@ -105,4 +105,9 @@ h2{
 
 .vastag{
     font-weight: bold;
+}
+
+h4{
+    font-style: italic;
+    font-style: oblique;
 }
